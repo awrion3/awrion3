@@ -1,15 +1,26 @@
-## Hello! Welcome,👋
-## A Never Ending Journey in Education 🌱
+<h1>Hello! Welcome,👋</h1> 
+<h2>A Never Ending Journey in Education 🌱</h2>
 
-## Chapter 1. My First Interest
-# English Language and Literature 💬
+<ul>
+<h3>Chapter 1. My First Interest</h3>
+<li>
+<h4>English Language and Literature 💬</h4>
+<p>
  Exploring the world of English has been a passion of mine throughout my education. By focusing my studies on English literature, from the beauty of classic novels to the diversity of modern media, I am continually captivated by the power of words to inspire, and educate. And I found out that language itself shapes our world- to communicate, connect, and create. I have also come to appreciate the value of culture as a means of understanding ourselves, our histories, and the world around us.
+</p>
+</li>
 
-## Chapter 2. My Certification and Double Major 🔭
-# Education Certification Track, and Computer Science and Engineering
-Connecting with students goes beyond just imparting knowledge. During my time teaching at a middle school, I discovered that building meaningful relationships with my students was the key to unlocking their full potential. As an empathy facilitator, I strive to create a welcoming environment where students feel heard and understood.
-
- And recently I find myself increasingly fascinated by the possibilities and potential applications of technologies, as technology continues to advance at an impressive rate. So I continue to pursue my education and explore my interests in these fields, and someday I want to use my skills and knowledge to make a positive impact on the world around me.
+<h3>Chapter 2. My Certification and Double Major 🔭</h3>
+<li>
+<h4>Education Certification Track, and Computer Science and Engineering</h4>
+<p>
+ Connecting with students goes beyond just imparting knowledge. During my time teaching at a middle school, I discovered that building meaningful relationships with my students was the key to unlocking their full potential. As an empathy facilitator, I strive to create a welcoming environment where students feel heard and understood.
+</p>
+<p>
+  And recently I find myself increasingly fascinated by the possibilities and potential applications of technologies, as technology continues to advance at an impressive rate. So I continue to pursue my education and explore my interests in these fields, and someday I want to use my skills and knowledge to make a positive impact on the world around me.
+</p>
+</li>
+</ul>
 <!--
 **awrion3/awrion3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
