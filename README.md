@@ -1,6 +1,5 @@
-<h1>Hello! Welcome,👋</h1> 
-<h2>A Never Ending Journey in Education 🌱</h2>
-
+<h5>Hello! Welcome to my github, I hope you have a good day!👋</h5> 
+<h3>A Never Ending Journey in Education 🌱</h3>
 <ul>
 <h3>Chapter 1. My First Interest</h3>
 <li>
@@ -9,7 +8,6 @@
  Exploring the world of English has been a passion of mine throughout my education. By focusing my studies on English literature, from the beauty of classic novels to the diversity of modern media, I am continually captivated by the power of words to inspire, and educate. And I found out that language itself shapes our world- to communicate, connect, and create. I have also come to appreciate the value of culture as a means of understanding ourselves, our histories, and the world around us.
 </p>
 </li>
-
 <h3>Chapter 2. My Certification and Double Major 🔭</h3>
 <li>
 <h4>Education Certification Track, and Computer Science and Engineering</h4>
