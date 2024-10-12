@@ -8,7 +8,7 @@
 <p>
 Exploring the world of English has been a passion of mine throughout my education. By focusing my studies on English literature, from the beauty of classic novels to the diversity of modern media, I am continually captivated by the power of words to inspire, and educate. And I found out that language itself shapes our world- to communicate, connect, and create. I have also come to appreciate the value of culture as a means of understanding ourselves, our histories, and the world around us.
 </p>
-<h4>Chapter 2. Certification in Education⚡</h4>
+<h4>Chapter 2. Certificate in Education⚡</h4>
 <p>
 Connecting with students goes beyond just imparting knowledge. During my time teaching at a middle school, I discovered that building meaningful relationships with my students was the key to unlocking their full potential. As an empathy facilitator, I strive to create a welcoming environment where students feel heard and understood.
 </p>
