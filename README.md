@@ -19,9 +19,7 @@ Recently I find myself increasingly fascinated by the possibilities and potentia
 </div>
 
 <div>
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawrion3&count_bg=%238C8D90&title_bg=%23555555&icon=leaflet.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
-</a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawrion3&count_bg=%239FA0A4&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/></a>
 </div>
 
 <!--
